@@ -14,17 +14,17 @@ Link to my CV
 ...will be added
 
 ### SKILLS & PROFICIENCIES
-![Jira](https://img.shields.io/badge/-Jira-0d4202?style=for-the-badge&logo=Jira&logColor=57f7e2)
-![TestRail](https://img.shields.io/badge/-TestRail-0d4202?style=for-the-badge&logo=testRail&logColor=57f7e2)
-![Confluence](https://img.shields.io/badge/-Confluence-0d4202?style=for-the-badge&logo=confluencr&logColor=57f7e2)
-![YouTrack](https://img.shields.io/badge/-YouTrack-0d4202?style=for-the-badge&logo=youtrack&logColor=57f7e2)
-![Jenkins](https://img.shields.io/badge/-Jenkins-0d4202?style=for-the-badge&logo=jenkins&logColor=57f7e2)
-![Kibana](https://img.shields.io/badge/-Kibana-0d4202?style=for-the-badge&logo=Kibana&logColor=57f7e2)
-![Postman](https://img.shields.io/badge/-Postman-0d4202?style=for-the-badge&logo=postman&logColor=57f7e2)
-![SoapUI](https://img.shields.io/badge/-SoapUI-0d4202?style=for-the-badge&logo=SoapUI&logColor=57f7e2)
-![DevTools](https://img.shields.io/badge/-DevTools-0d4202?style=for-the-badge&logo=chrome&logColor=57f7e2)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d4202?style=for-the-badge&logo=postgreSQL&logColor=57f7e2)
-![GitHub](https://img.shields.io/badge/-GitHub-0d4202?style=for-the-badge&logo=GitHub&logColor=57f7e2)
+![Jira](https://img.shields.io/badge/-Jira-565756?style=for-the-badge&logo=Jira)
+![TestRail](https://img.shields.io/badge/-TestRail-565756?style=for-the-badge&logo=testrail)
+![Confluence](https://img.shields.io/badge/-Confluence-565756?style=for-the-badge&logo=confluence)
+![YouTrack](https://img.shields.io/badge/-YouTrack-565756?style=for-the-badge&logo=youtrack)
+![Jenkins](https://img.shields.io/badge/-Jenkins-565756?style=for-the-badge&logo=jenkins)
+![Kibana](https://img.shields.io/badge/-Kibana-565756?style=for-the-badge&logo=Kibana)
+![Postman](https://img.shields.io/badge/-Postman-565756?style=for-the-badge&logo=postman)
+![SoapUI](https://img.shields.io/badge/-SoapUI-565756?style=for-the-badge&logo=soapui)
+![DevTools](https://img.shields.io/badge/-DevTools-565756?style=for-the-badge&logo=googlechrome)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-565756?style=for-the-badge&logo=postgreSQL)
+![GitHub](https://img.shields.io/badge/-GitHub-565756?style=for-the-badge&logo=GitHub)
 
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0d4202?style=for-the-badge&logo=Linkedin&logColor=57f7e2)](https://www.linkedin.com/in/dmedzuta/)
