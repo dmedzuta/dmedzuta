@@ -2,7 +2,10 @@
 
 ## Like to work in a self-organized team. Expect quality from myself and from others.
 
-### Tools
+### CERTIFICATION
+...will be added
+
+### SKILLS & PROFICIENCIES
 ![Jira](https://img.shields.io/badge/-Jira-0d4202?style=for-the-badge&logo=Jira&logColor=57f7e2)
 ![TestRail](https://img.shields.io/badge/-TestRail-0d4202?style=for-the-badge&logo=testRail&logColor=57f7e2)
 ![Confluence](https://img.shields.io/badge/-Confluence-0d4202?style=for-the-badge&logo=confluencr&logColor=57f7e2)
@@ -15,4 +18,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d4202?style=for-the-badge&logo=postgreSQL&logColor=57f7e2)
 ![GitHub](https://img.shields.io/badge/-GitHub-0d4202?style=for-the-badge&logo=GitHub&logColor=57f7e2)
 
-Follow me
+### Follow me
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0d4202?style=for-the-badge&logo=Linkedin&logColor=57f7e2)](https://www.linkedin.com/in/dmedzuta/)
+
