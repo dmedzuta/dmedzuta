@@ -1,6 +1,14 @@
 ![Header](https://github.com/dmedzuta/dmedzuta/blob/main/assets/Banner.png)
 
-## Like to work in a self-organized team. Expect quality from myself and from others.
+### ABOUT ME
+10+ years of experience in Quality Assurance within E-commerce, Retail and Fintech domains, especially in manual testing of desktop and web-based applications using Agile and Scrum test methodologies.</br>
+
+Hands on experience with all types of manual testing including Smoke, Functional, GUI, Integration, Regression, Cross browser and User Acceptance testing.
+Like to work in a self-organized team.
+Expect quality from myself and from others.
+
+### CV
+Link to my CV
 
 ### CERTIFICATION
 ...will be added
