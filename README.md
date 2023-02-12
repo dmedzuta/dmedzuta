@@ -1,4 +1,4 @@
-![Header](https://github.com/dmedzuta/dmedzuta/blob/main/assets/Banner.png)
+![Header](https://github.com/dmedzuta/dmedzuta/blob/main/logo/Banner_new.png)
 
 ### ABOUT ME
 10+ years of experience in Quality Assurance within E-commerce, Retail and Fintech domains, especially in manual testing of desktop and web-based applications using Agile and Scrum test methodologies.</br>
