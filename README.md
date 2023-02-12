@@ -29,3 +29,4 @@ Link to my CV
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0d4202?style=for-the-badge&logo=Linkedin&logColor=57f7e2)](https://www.linkedin.com/in/dmedzuta/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmedzuta&show_icons=true&theme=radical)](https://github.com/dmedzuta/github-readme-stats)
