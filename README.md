@@ -7,10 +7,11 @@ Hands on experience with all types of manual testing including Smoke, Functional
 Like to work in a self-organized team.
 Expect quality from myself and from others.
 
-### CV
-Link to my CV
+### COURSES
+2016 - Software Testing</br>
+2022 - Project Management Essentials in IT
 
-### CERTIFICATION
+### E-CERTIFICATION
 ...will be added
 
 ### SKILLS & PROFICIENCIES
