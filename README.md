@@ -17,11 +17,12 @@ Expect quality from myself and from others.
 [Learn Software Testing Certification course](https://www.eduonix.com/certificate/4d35565b4b)</br>
 [Scrum Fundamentals Certified (SFC™)](https://www.scrumstudy.com/certification/verify?type=SFC&number=935696)</br>
 [BUS402: Project Management](https://certificates.saylor.org/fcc7e787-6fac-4598-b564-14c0edb33547#gs.evhdrs)</br>
+[Structured Query Language (SQL)](https://www.studysection.com/users/socialMedia/NjEzNDkz/ZGFyaW5hLm1lZHp1dGFAZ21haWwuY29t)</br>
 [Front End Development - HTML](https://verify.mygreatlearning.com/verify/QJTCBYII)</br>
-[Курс по Google Аналитике для начинающих](https://analytics.google.com/analytics/academy/certificate/Z-3dYrOwRX2D_2FRStjOxQ)
+[Курс по Google Аналитике для начинающих](https://analytics.google.com/analytics/academy/certificate/Z-3dYrOwRX2D_2FRStjOxQ)</br>
 
 ### TEST ARTIFACTS
-...will be added
+[Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)
 
 ### SKILLS & PROFICIENCIES
 ![Jira](https://img.shields.io/badge/-Jira-565756?style=for-the-badge&logo=Jira)
@@ -40,4 +41,3 @@ Expect quality from myself and from others.
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0d4202?style=for-the-badge&logo=Linkedin&logColor=57f7e2)](https://www.linkedin.com/in/dmedzuta/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmedzuta&show_icons=true&theme=radical)](https://github.com/dmedzuta/github-readme-stats)
-
