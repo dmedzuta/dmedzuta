@@ -12,7 +12,7 @@ Expect quality from myself and from others.
 2022 - Project Management Essentials in IT
 
 ### E-CERTIFICATION
-...will be added
+[Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/1728378)
 
 ### SKILLS & PROFICIENCIES
 ![Jira](https://img.shields.io/badge/-Jira-565756?style=for-the-badge&logo=Jira)
