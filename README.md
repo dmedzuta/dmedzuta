@@ -13,6 +13,12 @@ Expect quality from myself and from others.
 
 ### E-CERTIFICATION
 [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/1728378)
+[Тестирование ПО: подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/1778132)
+[Learn Software Testing Certification course](https://www.eduonix.com/certificate/4d35565b4b)
+[Scrum Fundamentals Certified (SFC™)](https://www.scrumstudy.com/certification/verify?type=SFC&number=935696)
+[BUS402: Project Management](https://certificates.saylor.org/fcc7e787-6fac-4598-b564-14c0edb33547#gs.evhdrs)
+[Front End Development - HTML](https://verify.mygreatlearning.com/verify/QJTCBYII)
+[Курс по Google Аналитике для начинающих](https://analytics.google.com/analytics/academy/certificate/Z-3dYrOwRX2D_2FRStjOxQ)
 
 ### SKILLS & PROFICIENCIES
 ![Jira](https://img.shields.io/badge/-Jira-565756?style=for-the-badge&logo=Jira)
