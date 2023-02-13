@@ -20,6 +20,9 @@ Expect quality from myself and from others.
 [Front End Development - HTML](https://verify.mygreatlearning.com/verify/QJTCBYII)</br>
 [Курс по Google Аналитике для начинающих](https://analytics.google.com/analytics/academy/certificate/Z-3dYrOwRX2D_2FRStjOxQ)
 
+### TEST ARTIFACTS
+...will be added
+
 ### SKILLS & PROFICIENCIES
 ![Jira](https://img.shields.io/badge/-Jira-565756?style=for-the-badge&logo=Jira)
 ![TestRail](https://img.shields.io/badge/-TestRail-565756?style=for-the-badge&logo=testrail)
