@@ -22,7 +22,7 @@ Expect quality from myself and from others.
 [Курс по Google Аналитике для начинающих](https://analytics.google.com/analytics/academy/certificate/Z-3dYrOwRX2D_2FRStjOxQ)</br>
 
 ### TEST ARTIFACTS
-[Test Cases](https://github.com/dmedzuta/Test-cases)
+[Test Cases](https://github.com/dmedzuta/Test-cases)</br>
 [Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)
 
 ### SKILLS & PROFICIENCIES
