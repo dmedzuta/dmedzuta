@@ -1,33 +1,35 @@
 ![Header](https://github.com/dmedzuta/dmedzuta/blob/main/banner/GitHub_banner.jpg)
 
 Hi there :wave: Welcome to my GitHub profile! 
------------------------------
+---
+
+>_”Testing is like a game of chess, you have to think ahead of the developer"_ - © Huib Schoots
 
 ### :pushpin: ABOUT ME 
-10+ years of experience in Quality Assurance within E-commerce, Retail and Fintech domains, especially in manual testing of desktop and web-based applications using Agile and Scrum test methodologies.</br>
+10+ years of experience in Quality Assurance within E-commerce, Retail and Fintech domains, especially in manual testing of desktop and web-based applications using Agile and Scrum test methodologies.  
 
-Hands on experience with all types of manual testing including Smoke, Functional, GUI, Integration, Regression, Cross browser and User Acceptance testing.
-Like to work in a self-organized team.
-Expect quality from myself and from others.
+Hands on experience with all types of manual testing including Smoke, Functional, GUI, Integration, Regression, Cross browser and User Acceptance testing.  
+Like to work in a self-organized team.  
+Expect quality from myself and from others.  
 
 ### :mortar_board: COURSES
-2016 - Software Testing</br>
+2016 - Software Testing  
 2022 - Project Management Essentials in IT
 
 ### :trophy: E-CERTIFICATION
-[Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/1728378)</br>
-[Тестирование ПО: подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/1778132)</br>
-[Learn Software Testing Certification course](https://www.eduonix.com/certificate/4d35565b4b)</br>
-[Scrum Fundamentals Certified (SFC™)](https://www.scrumstudy.com/certification/verify?type=SFC&number=935696)</br>
-[BUS402: Project Management](https://certificates.saylor.org/fcc7e787-6fac-4598-b564-14c0edb33547#gs.evhdrs)</br>
-[Structured Query Language (SQL)](https://www.studysection.com/users/socialMedia/NjEzNDkz/ZGFyaW5hLm1lZHp1dGFAZ21haWwuY29t)</br>
-[Front End Development - HTML](https://verify.mygreatlearning.com/verify/QJTCBYII)</br>
-[Курс по Google Аналитике для начинающих](https://analytics.google.com/analytics/academy/certificate/Z-3dYrOwRX2D_2FRStjOxQ)</br>
+[Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/1728378)  
+[Тестирование ПО: подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/1778132)  
+[Learn Software Testing Certification course](https://www.eduonix.com/certificate/4d35565b4b)  
+[Scrum Fundamentals Certified (SFC™)](https://www.scrumstudy.com/certification/verify?type=SFC&number=935696)  
+[BUS402: Project Management](https://certificates.saylor.org/fcc7e787-6fac-4598-b564-14c0edb33547#gs.evhdrs)  
+[Structured Query Language (SQL)](https://www.studysection.com/users/socialMedia/NjEzNDkz/ZGFyaW5hLm1lZHp1dGFAZ21haWwuY29t)  
+[Front End Development - HTML](https://verify.mygreatlearning.com/verify/QJTCBYII)  
+[Курс по Google Аналитике для начинающих](https://analytics.google.com/analytics/academy/certificate/Z-3dYrOwRX2D_2FRStjOxQ)  
 
 ### :page_with_curl: TEST ARTIFACTS
-[Test Cases](https://github.com/dmedzuta/Test-cases)</br>
-[Test Plan](https://github.com/dmedzuta/Test-Plan)</br>
-[Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)
+[Test Cases](https://github.com/dmedzuta/Test-cases)  
+[Test Plan](https://github.com/dmedzuta/Test-Plan)  
+[Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)  
 
 ### 🛠️ SKILLS & PROFICIENCIES
 <a href="https://www.atlassian.com/ru/software/jira">
