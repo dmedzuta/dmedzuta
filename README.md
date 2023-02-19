@@ -1,20 +1,20 @@
 ![Header](https://github.com/dmedzuta/dmedzuta/blob/main/banner/GitHub_banner.jpg)
 
-### Hi there :wave:
-Welcome to my GitHub profile! 
+Hi there :wave: Welcome to my GitHub profile! 
+-----------------------------
 
-### ABOUT ME
+### :pushpin: ABOUT ME 
 10+ years of experience in Quality Assurance within E-commerce, Retail and Fintech domains, especially in manual testing of desktop and web-based applications using Agile and Scrum test methodologies.</br>
 
 Hands on experience with all types of manual testing including Smoke, Functional, GUI, Integration, Regression, Cross browser and User Acceptance testing.
 Like to work in a self-organized team.
 Expect quality from myself and from others.
 
-### COURSES
+### :mortar_board: COURSES
 2016 - Software Testing</br>
 2022 - Project Management Essentials in IT
 
-### E-CERTIFICATION
+### :trophy: E-CERTIFICATION
 [Тестирование ПО: Postman для тестирования API](https://stepik.org/cert/1728378)</br>
 [Тестирование ПО: подготовка к сертификации ISTQB Foundation](https://stepik.org/cert/1778132)</br>
 [Learn Software Testing Certification course](https://www.eduonix.com/certificate/4d35565b4b)</br>
@@ -24,12 +24,12 @@ Expect quality from myself and from others.
 [Front End Development - HTML](https://verify.mygreatlearning.com/verify/QJTCBYII)</br>
 [Курс по Google Аналитике для начинающих](https://analytics.google.com/analytics/academy/certificate/Z-3dYrOwRX2D_2FRStjOxQ)</br>
 
-### TEST ARTIFACTS
+### :page_with_curl: TEST ARTIFACTS
 [Test Cases](https://github.com/dmedzuta/Test-cases)</br>
 [Test Plan](https://github.com/dmedzuta/Test-Plan)</br>
 [Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)
 
-### SKILLS & PROFICIENCIES
+### 🛠️ SKILLS & PROFICIENCIES
 <a href="https://www.atlassian.com/ru/software/jira">
 <img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/jira.png" alt="Jira" width="48" height="48" /> 
 </a>
@@ -67,7 +67,7 @@ Expect quality from myself and from others.
 <img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/sql.png" alt="SQL" width="48" height="48" /> 
 </a>
 
-### Follow me
+### FOLLOW ME
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0d4202?style=for-the-badge&logo=Linkedin&logColor=57f7e2)](https://www.linkedin.com/in/dmedzuta/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmedzuta&show_icons=true&theme=radical)](https://github.com/dmedzuta/github-readme-stats)
