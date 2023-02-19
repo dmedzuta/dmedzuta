@@ -41,7 +41,13 @@ Expect quality from myself and from others.
 
 ### Test block
 <a href="https://www.atlassian.com/ru/software/jira">
-<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/jira.png" alt="Fiddler" width="48" height="48" /> 
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/jira.png" alt="Jira" width="48" height="48" /> 
+</a>
+<a href="https://www.gurock.com/testrail">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/testrail.png" alt="TestRail" width="48" height="48" /> 
+</a>
+<a href="https://www.atlassian.com/software/confluence">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/confluence.png" alt="Confluence" width="48" height="48" /> 
 </a>
 
 ### Follow me
