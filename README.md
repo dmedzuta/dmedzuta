@@ -43,12 +43,37 @@ Expect quality from myself and from others.
 <a href="https://www.atlassian.com/ru/software/jira">
 <img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/jira.png" alt="Jira" width="48" height="48" /> 
 </a>
+<a href="https://www.jetbrains.com/ru-ru/youtrack/">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/youtrack.png" alt="YouTrack" width="48" height="48" /> 
+</a>
 <a href="https://www.gurock.com/testrail">
-<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/testrail.png" alt="TestRail" width="48" height="48" /> 
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/testrail.png" alt="YouTrack" width="48" height="48" /> 
 </a>
 <a href="https://www.atlassian.com/software/confluence">
 <img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/confluence.png" alt="Confluence" width="48" height="48" /> 
 </a>
+<a href="https://www.jenkins.io/">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/jenkins.png" alt="Jenkins" width="48" height="48" /> 
+</a>
+<a href="https://www.postgresql.org/">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/postgresql.png" alt="PostgreSQL" width="48" height="48" /> 
+</a>
+<a href="https://www.postman.com">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/postman.png" alt="Postman" width="48" height="48" /> 
+</a>
+<a href="https://www.soapui.org/">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/soapui.png" alt="SoapUI" width="48" height="48" /> 
+</a>
+<a href="https://www.elastic.co/kibana/">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/kibana.png" alt="Kibana" width="48" height="48" /> 
+</a>
+<a href="https://developer.chrome.com/docs/devtools/">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/googlechrome.png" alt="DevTools" width="48" height="48" /> 
+</a>
+<a href="https://github.com/">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/github.png" alt="DevTools" width="48" height="48" /> 
+</a>
+
 
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0d4202?style=for-the-badge&logo=Linkedin&logColor=57f7e2)](https://www.linkedin.com/in/dmedzuta/)
