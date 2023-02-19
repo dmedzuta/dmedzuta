@@ -39,6 +39,11 @@ Expect quality from myself and from others.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-565756?style=for-the-badge&logo=postgreSQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-565756?style=for-the-badge&logo=GitHub)
 
+### Test block
+<a href="https://www.atlassian.com/ru/software/jira">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/jira.png" alt="Fiddler" width="48" height="48" /> 
+</a>
+
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0d4202?style=for-the-badge&logo=Linkedin&logColor=57f7e2)](https://www.linkedin.com/in/dmedzuta/)
 
