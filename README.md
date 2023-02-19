@@ -23,6 +23,7 @@ Expect quality from myself and from others.
 
 ### TEST ARTIFACTS
 [Test Cases](https://github.com/dmedzuta/Test-cases)</br>
+[Test Plan](https://github.com/dmedzuta/Test-Plan)</br>
 [Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)
 
 ### SKILLS & PROFICIENCIES
