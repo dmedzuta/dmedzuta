@@ -1,5 +1,8 @@
 ![Header](https://github.com/dmedzuta/dmedzuta/blob/main/banner/GitHub_banner.jpg)
 
+### Hi there :wave:
+Welcome to my GitHub profile! 
+
 ### ABOUT ME
 10+ years of experience in Quality Assurance within E-commerce, Retail and Fintech domains, especially in manual testing of desktop and web-based applications using Agile and Scrum test methodologies.</br>
 
