@@ -27,19 +27,6 @@ Expect quality from myself and from others.
 [Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)
 
 ### SKILLS & PROFICIENCIES
-![Jira](https://img.shields.io/badge/-Jira-565756?style=for-the-badge&logo=Jira)
-![TestRail](https://img.shields.io/badge/-TestRail-565756?style=for-the-badge&logo=testrail)
-![Confluence](https://img.shields.io/badge/-Confluence-565756?style=for-the-badge&logo=confluence)
-![YouTrack](https://img.shields.io/badge/-YouTrack-565756?style=for-the-badge&logo=youtrack)
-![Jenkins](https://img.shields.io/badge/-Jenkins-565756?style=for-the-badge&logo=jenkins)
-![Kibana](https://img.shields.io/badge/-Kibana-565756?style=for-the-badge&logo=Kibana)
-![Postman](https://img.shields.io/badge/-Postman-565756?style=for-the-badge&logo=postman)
-![SoapUI](https://img.shields.io/badge/-SoapUI-565756?style=for-the-badge&logo=soapui)
-![DevTools](https://img.shields.io/badge/-DevTools-565756?style=for-the-badge&logo=googlechrome)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-565756?style=for-the-badge&logo=postgreSQL)
-![GitHub](https://img.shields.io/badge/-GitHub-565756?style=for-the-badge&logo=GitHub)
-
-### Test block
 <a href="https://www.atlassian.com/ru/software/jira">
 <img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/jira.png" alt="Jira" width="48" height="48" /> 
 </a>
@@ -73,7 +60,9 @@ Expect quality from myself and from others.
 <a href="https://github.com/">
 <img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/github.png" alt="DevTools" width="48" height="48" /> 
 </a>
-
+<a href="">
+<img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/sql.png" alt="SQL" width="48" height="48" /> 
+</a>
 
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0d4202?style=for-the-badge&logo=Linkedin&logColor=57f7e2)](https://www.linkedin.com/in/dmedzuta/)
