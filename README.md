@@ -1,4 +1,4 @@
-![Header](https://github.com/dmedzuta/dmedzuta/blob/main/banner/GitHub_banner.jpg)
+![Header](https://github.com/dmedzuta/dmedzuta/blob/main/banner/New%20Banner.png)
 
 Hi there :wave: Welcome to my GitHub profile! 
 ---
