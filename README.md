@@ -29,6 +29,7 @@ Expect quality from myself and from others.
 ### :page_with_curl: TEST ARTIFACTS
 [Test Cases](https://github.com/dmedzuta/Test-cases)  
 [Test Plan](https://github.com/dmedzuta/Test-Plan)  
+[Checklist](https://github.com/dmedzuta/dmedzuta/tree/main/Checklist)  
 [Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)  
 
 ### 🛠️ SKILLS & PROFICIENCIES
