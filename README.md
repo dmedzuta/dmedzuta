@@ -11,9 +11,10 @@ Hi there :wave: Welcome to my GitHub profile!
 Hands on experience with all types of manual testing including Smoke, Functional, GUI, Integration, Regression, Cross browser and User Acceptance testing.    
 
 ### :page_with_curl: TEST ARTIFACTS
-[Test Cases](https://github.com/dmedzuta/Test-cases)  
 [Test Plan](https://github.com/dmedzuta/Test-Plan)  
+[Test Cases](https://github.com/dmedzuta/Test-cases)  
 [Checklist](https://github.com/dmedzuta/dmedzuta/tree/main/Checklist)  
+[Quality Report](https://docs.google.com/document/d/1TVGvMLbb2Yf0qqawIkZvlq-A2V8rb-eR/edit)  
 [Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)  
 
 ### 🛠️ TOOLS
