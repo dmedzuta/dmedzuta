@@ -1,7 +1,5 @@
 Hi there :wave: Welcome to my GitHub profile!  
 ---
-<img src="https://komarev.com/ghpvc/?username=dmedzuta&style=flat-square&color=blue" alt=""/>
-
 >_”Testing is like a game of chess, you have to think ahead of the developer"_ - © Huib Schoots
 
 ### :pushpin: ABOUT ME 
@@ -15,7 +13,7 @@ Hands on experience with all types of manual testing including Smoke, Functional
 [Quality Report](https://docs.google.com/document/d/1TVGvMLbb2Yf0qqawIkZvlq-A2V8rb-eR/edit)  
 [Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)  
 
-### 🛠️ TOOLS
+### 🛠️ TOOLS 
 <a href="https://www.atlassian.com/ru/software/jira">
 <img src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/jira.png" alt="Jira" width="48" height="48" /> 
 </a>
@@ -56,4 +54,7 @@ Hands on experience with all types of manual testing including Smoke, Functional
 ### :speech_balloon: GET IN TOUCH  
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0d4202?style=for-the-badge&logo=Linkedin&logColor=57f7e2)](https://www.linkedin.com/in/dmedzuta/)
 ---
+### Some of my GitHub Stats  
+<img src="https://komarev.com/ghpvc/?username=dmedzuta&style=flat-square&color=blue" alt=""/>  
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmedzuta&show_icons=true&theme=radical)](https://github.com/dmedzuta/github-readme-stats)
