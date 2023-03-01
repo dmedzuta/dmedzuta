@@ -1,5 +1,3 @@
-![Header](https://github.com/dmedzuta/dmedzuta/blob/main/banner/New%20Banner.png)
-
 Hi there :wave: Welcome to my GitHub profile!  
 ---
 <img src="https://komarev.com/ghpvc/?username=dmedzuta&style=flat-square&color=blue" alt=""/>
