@@ -4,7 +4,13 @@ Hi there :wave: Welcome to my GitHub profile!
 
 ### :pushpin: ABOUT ME 
 10+ years of experience in Quality Assurance within E-commerce, Retail and Fintech domains, especially in manual testing of desktop and web-based applications using Agile and Scrum test methodologies.  
-Hands on experience with all types of manual testing including Smoke, Functional, GUI, Integration, Regression, Cross browser and User Acceptance testing.    
+Hands on experience with all types of manual testing including Smoke, Functional, GUI, Integration, Regression, Cross browser and User Acceptance testing.  
+
+**Projects I have worked on** :white_check_mark:  
+<p><img align="left" style="margin: 5px 15px 5px 15px;" src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/hcb.png" height=50 weight=150 alt="Home Credit Bank"/>
+<img align="left" style="margin: 5px 15px 5px 5px;" src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/bss.jpg" height=50 weight=150 alt="BSS"/>
+<img align="left" style="margin: 5px 15px 5px 5px;" src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/s7.png" height=50 weight=150 alt="S7 Airlines"/>
+<img align="left" style="margin: 5px 15px 5px 5px;" src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/Logotip_Letual.png" height=50 weight=150 alt="Letoile"/></p><br><br>
 
 ### :page_with_curl: TEST ARTIFACTS
 [Test Plan](https://github.com/dmedzuta/Test-Plan)  
