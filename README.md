@@ -16,8 +16,7 @@ Hands on experience with all types of manual testing including Smoke, Functional
 [Test Plan](https://github.com/dmedzuta/Test-Plan)  
 [Test Cases](https://github.com/dmedzuta/Test-cases)  
 [Checklist](https://github.com/dmedzuta/dmedzuta/tree/main/Checklist)  
-[Quality Report](https://docs.google.com/document/d/1TVGvMLbb2Yf0qqawIkZvlq-A2V8rb-eR/edit)  
-[Postman Collection](https://github.com/dmedzuta/PostmanCollections_v1)  
+[Quality Report](https://docs.google.com/document/d/1TVGvMLbb2Yf0qqawIkZvlq-A2V8rb-eR/edit)    
 
 ### 🛠️ TOOLS 
 <a href="https://www.atlassian.com/ru/software/jira">
