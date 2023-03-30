@@ -15,7 +15,7 @@ Hands on experience with all types of manual testing including Smoke, Functional
 ### :page_with_curl: TEST ARTIFACTS
 [Test Plan](https://github.com/dmedzuta/Test-Plan)  
 [Test Cases](https://github.com/dmedzuta/Test-cases)  
-[Checklist](https://github.com/dmedzuta/dmedzuta/tree/main/Checklist)  
+[Checklist](https://github.com/dmedzuta/Checklist)  
 [Quality Report](https://docs.google.com/document/d/1TVGvMLbb2Yf0qqawIkZvlq-A2V8rb-eR/edit)    
 [Useful Information](https://github.com/dmedzuta/dmedzuta/tree/main/UsefulInfo)  
 
