@@ -3,8 +3,7 @@ Hi there :wave: Welcome to my GitHub profile!
 >_”Testing is like a game of chess, you have to think ahead of the developer"_ - © Huib Schoots
 
 ### :pushpin: ABOUT ME 
-10+ years of experience in Quality Assurance within E-commerce, Retail and Fintech domains, especially in manual testing of desktop and web-based applications using Agile and Scrum test methodologies.  
-Hands on experience with all types of manual testing including Smoke, Functional, GUI, Integration, Regression, Cross browser and User Acceptance testing.  
+10+ years of experience in Quality Assurance within E-commerce, Retail and Fintech domains, especially in manual testing of desktop and web-based applications using Agile and Scrum test methodologies.   
 
 **Projects I have worked on** :white_check_mark:  
 <p><img align="left" style="margin: 5px 15px 5px 15px;" src="https://github.com/dmedzuta/dmedzuta/blob/main/icons/hcb.png" height=50 weight=150 alt="Home Credit Bank"/>
